@@ -1,0 +1,19 @@
+.background2 {
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20190222/ourmid/pngtree-fresh-grass-landscape-tourism-background-tourismlandscapefar-mountainwillowposter-backgroundadvertising-image_49526.jpg');
+    background-repeat: no-repeat;
+      background-size: cover;
+      height: 100vh;
+  }
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
+
+  div{
+    text-align: center;
+    background-color: rgb(174, 224, 162);
+    padding: 10px;
+}
